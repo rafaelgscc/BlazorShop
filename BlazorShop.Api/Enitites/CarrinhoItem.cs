@@ -9,4 +9,8 @@ public class CarrinhoItem
     public int CarrinhoId {get; set;}
     public int ProdutoId {get; set;}
     public int Quantidade {get; set;}
+
+    //Muitos para muitos
+    public Carrinho? Carrinho {get; set;}
+    public Produto? Produto {get; set;}
 }
