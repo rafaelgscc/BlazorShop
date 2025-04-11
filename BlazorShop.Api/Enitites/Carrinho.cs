@@ -5,7 +5,6 @@ namespace BlazorShop.Api.Enitites;
 public class Carrinho
 {
     public int Id { get; set; }
-
     //workaround
     public string UsuarioId { get; set; } = string.Empty;
 

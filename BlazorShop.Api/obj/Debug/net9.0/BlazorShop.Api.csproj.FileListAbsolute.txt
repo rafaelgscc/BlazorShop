@@ -167,3 +167,5 @@ C:\Users\rafae\OneDrive\Documentos\blazor_app\BlazorShop.Api\obj\Debug\net9.0\re
 C:\Users\rafae\OneDrive\Documentos\blazor_app\BlazorShop.Api\obj\Debug\net9.0\BlazorShop.Api.pdb
 C:\Users\rafae\OneDrive\Documentos\blazor_app\BlazorShop.Api\obj\Debug\net9.0\BlazorShop.Api.genruntimeconfig.cache
 C:\Users\rafae\OneDrive\Documentos\blazor_app\BlazorShop.Api\obj\Debug\net9.0\ref\BlazorShop.Api.dll
+C:\Users\rafae\OneDrive\Documentos\blazor_app\BlazorShop.Api\bin\Debug\net9.0\BlazorShop.Models.dll
+C:\Users\rafae\OneDrive\Documentos\blazor_app\BlazorShop.Api\bin\Debug\net9.0\BlazorShop.Models.pdb

@@ -1,7 +1,5 @@
 C:\Users\rafae\OneDrive\Documentos\blazor_app\BlazorShop.Web\bin\Debug\net9.0\wwwroot\_framework\blazor.boot.json
 C:\Users\rafae\OneDrive\Documentos\blazor_app\BlazorShop.Web\bin\Debug\net9.0\wwwroot\_framework\blazor.webassembly.js
-C:\Users\rafae\OneDrive\Documentos\blazor_app\BlazorShop.Web\bin\Debug\net9.0\wwwroot\_framework\BlazorShop.Web.5t2uenybcd.pdb
-C:\Users\rafae\OneDrive\Documentos\blazor_app\BlazorShop.Web\bin\Debug\net9.0\wwwroot\_framework\BlazorShop.Web.6693p5q7pc.wasm
 C:\Users\rafae\OneDrive\Documentos\blazor_app\BlazorShop.Web\bin\Debug\net9.0\wwwroot\_framework\dotnet.js
 C:\Users\rafae\OneDrive\Documentos\blazor_app\BlazorShop.Web\bin\Debug\net9.0\wwwroot\_framework\dotnet.js.map
 C:\Users\rafae\OneDrive\Documentos\blazor_app\BlazorShop.Web\bin\Debug\net9.0\wwwroot\_framework\dotnet.native.hmanx9razn.js
@@ -250,7 +248,6 @@ C:\Users\rafae\OneDrive\Documentos\blazor_app\BlazorShop.Web\bin\Debug\net9.0\ww
 C:\Users\rafae\OneDrive\Documentos\blazor_app\BlazorShop.Web\bin\Debug\net9.0\wwwroot\_framework\System.Drawing.vqn7wix727.wasm.gz
 C:\Users\rafae\OneDrive\Documentos\blazor_app\BlazorShop.Web\bin\Debug\net9.0\wwwroot\_framework\System.Text.Encoding.35mt6q5ljl.wasm.gz
 C:\Users\rafae\OneDrive\Documentos\blazor_app\BlazorShop.Web\bin\Debug\net9.0\wwwroot\_framework\System.Linq.Parallel.vgj4j8dch1.wasm.gz
-C:\Users\rafae\OneDrive\Documentos\blazor_app\BlazorShop.Web\bin\Debug\net9.0\wwwroot\_framework\BlazorShop.Web.6693p5q7pc.wasm.gz
 C:\Users\rafae\OneDrive\Documentos\blazor_app\BlazorShop.Web\bin\Debug\net9.0\wwwroot\_framework\dotnet.native.p4lwlf2bu1.wasm.gz
 C:\Users\rafae\OneDrive\Documentos\blazor_app\BlazorShop.Web\bin\Debug\net9.0\wwwroot\_framework\System.Runtime.Handles.9pw8i2xf5o.wasm.gz
 C:\Users\rafae\OneDrive\Documentos\blazor_app\BlazorShop.Web\bin\Debug\net9.0\wwwroot\_framework\System.Diagnostics.Debug.3yqrkynz4f.wasm.gz
@@ -351,7 +348,6 @@ C:\Users\rafae\OneDrive\Documentos\blazor_app\BlazorShop.Web\bin\Debug\net9.0\ww
 C:\Users\rafae\OneDrive\Documentos\blazor_app\BlazorShop.Web\bin\Debug\net9.0\wwwroot\_framework\System.Formats.Tar.8xxxaqbsnj.wasm.gz
 C:\Users\rafae\OneDrive\Documentos\blazor_app\BlazorShop.Web\bin\Debug\net9.0\wwwroot\_framework\System.Diagnostics.Tools.zgykqiy9oc.wasm.gz
 C:\Users\rafae\OneDrive\Documentos\blazor_app\BlazorShop.Web\bin\Debug\net9.0\wwwroot\_framework\Microsoft.Extensions.FileSystemGlobbing.q5if44af42.wasm.gz
-C:\Users\rafae\OneDrive\Documentos\blazor_app\BlazorShop.Web\bin\Debug\net9.0\wwwroot\_framework\BlazorShop.Web.5t2uenybcd.pdb.gz
 C:\Users\rafae\OneDrive\Documentos\blazor_app\BlazorShop.Web\bin\Debug\net9.0\wwwroot\_framework\dotnet.runtime.o8gq1i8bk6.js.gz
 C:\Users\rafae\OneDrive\Documentos\blazor_app\BlazorShop.Web\bin\Debug\net9.0\wwwroot\_framework\mscorlib.o0184ey5ia.wasm.gz
 C:\Users\rafae\OneDrive\Documentos\blazor_app\BlazorShop.Web\bin\Debug\net9.0\wwwroot\_framework\Microsoft.AspNetCore.Components.WebAssembly.5cygu8f0zf.wasm.gz
@@ -1065,9 +1061,6 @@ C:\Users\rafae\OneDrive\Documentos\blazor_app\BlazorShop.Web\obj\Debug\net9.0\co
 C:\Users\rafae\OneDrive\Documentos\blazor_app\BlazorShop.Web\obj\Debug\net9.0\compressed\29031rrrel-tjcz0u77k5.gz
 C:\Users\rafae\OneDrive\Documentos\blazor_app\BlazorShop.Web\obj\Debug\net9.0\compressed\v84pva4n29-tptq2av103.gz
 C:\Users\rafae\OneDrive\Documentos\blazor_app\BlazorShop.Web\obj\Debug\net9.0\compressed\cb1iqoz8w5-lfu7j35m59.gz
-C:\Users\rafae\OneDrive\Documentos\blazor_app\BlazorShop.Web\obj\Debug\net9.0\compressed\9nsf9hfq4o-6693p5q7pc.gz
-C:\Users\rafae\OneDrive\Documentos\blazor_app\BlazorShop.Web\obj\Debug\net9.0\compressed\pgob7z3g83-5t2uenybcd.gz
-C:\Users\rafae\OneDrive\Documentos\blazor_app\BlazorShop.Web\obj\Debug\net9.0\compressed\aw2d3rt36e-2azgfpz3xa.gz
 C:\Users\rafae\OneDrive\Documentos\blazor_app\BlazorShop.Web\obj\Debug\net9.0\staticwebassets.build.json
 C:\Users\rafae\OneDrive\Documentos\blazor_app\BlazorShop.Web\obj\Debug\net9.0\staticwebassets.development.json
 C:\Users\rafae\OneDrive\Documentos\blazor_app\BlazorShop.Web\obj\Debug\net9.0\staticwebassets.build.endpoints.json
@@ -1082,3 +1075,19 @@ C:\Users\rafae\OneDrive\Documentos\blazor_app\BlazorShop.Web\obj\Debug\net9.0\Bl
 C:\Users\rafae\OneDrive\Documentos\blazor_app\BlazorShop.Web\obj\Debug\net9.0\refint\BlazorShop.Web.dll
 C:\Users\rafae\OneDrive\Documentos\blazor_app\BlazorShop.Web\obj\Debug\net9.0\BlazorShop.Web.pdb
 C:\Users\rafae\OneDrive\Documentos\blazor_app\BlazorShop.Web\obj\Debug\net9.0\ref\BlazorShop.Web.dll
+C:\Users\rafae\OneDrive\Documentos\blazor_app\BlazorShop.Web\bin\Debug\net9.0\wwwroot\_framework\BlazorShop.Models.a6h0dfk0o7.pdb
+C:\Users\rafae\OneDrive\Documentos\blazor_app\BlazorShop.Web\bin\Debug\net9.0\wwwroot\_framework\BlazorShop.Models.ungec3crrv.wasm
+C:\Users\rafae\OneDrive\Documentos\blazor_app\BlazorShop.Web\bin\Debug\net9.0\wwwroot\_framework\BlazorShop.Web.5docmky8ph.pdb
+C:\Users\rafae\OneDrive\Documentos\blazor_app\BlazorShop.Web\bin\Debug\net9.0\wwwroot\_framework\BlazorShop.Web.mb0y9hcyu3.wasm
+C:\Users\rafae\OneDrive\Documentos\blazor_app\BlazorShop.Web\bin\Debug\net9.0\wwwroot\_framework\BlazorShop.Models.ungec3crrv.wasm.gz
+C:\Users\rafae\OneDrive\Documentos\blazor_app\BlazorShop.Web\bin\Debug\net9.0\wwwroot\_framework\BlazorShop.Models.a6h0dfk0o7.pdb.gz
+C:\Users\rafae\OneDrive\Documentos\blazor_app\BlazorShop.Web\bin\Debug\net9.0\wwwroot\_framework\BlazorShop.Web.mb0y9hcyu3.wasm.gz
+C:\Users\rafae\OneDrive\Documentos\blazor_app\BlazorShop.Web\bin\Debug\net9.0\wwwroot\_framework\BlazorShop.Web.5docmky8ph.pdb.gz
+C:\Users\rafae\OneDrive\Documentos\blazor_app\BlazorShop.Web\bin\Debug\net9.0\BlazorShop.Models.dll
+C:\Users\rafae\OneDrive\Documentos\blazor_app\BlazorShop.Web\bin\Debug\net9.0\BlazorShop.Models.pdb
+C:\Users\rafae\OneDrive\Documentos\blazor_app\BlazorShop.Web\obj\Debug\net9.0\webcil\BlazorShop.Models.wasm
+C:\Users\rafae\OneDrive\Documentos\blazor_app\BlazorShop.Web\obj\Debug\net9.0\compressed\19x0g7vhkg-ungec3crrv.gz
+C:\Users\rafae\OneDrive\Documentos\blazor_app\BlazorShop.Web\obj\Debug\net9.0\compressed\5akidrsoyb-a6h0dfk0o7.gz
+C:\Users\rafae\OneDrive\Documentos\blazor_app\BlazorShop.Web\obj\Debug\net9.0\compressed\9nsf9hfq4o-mb0y9hcyu3.gz
+C:\Users\rafae\OneDrive\Documentos\blazor_app\BlazorShop.Web\obj\Debug\net9.0\compressed\pgob7z3g83-5docmky8ph.gz
+C:\Users\rafae\OneDrive\Documentos\blazor_app\BlazorShop.Web\obj\Debug\net9.0\compressed\aw2d3rt36e-mc0x61uvrr.gz

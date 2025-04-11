@@ -22,7 +22,6 @@ public class Produto
      public int Quantidade {get; set; }
 
      public int CategoriaId {get; set;}
-
      //explicitação de produto com categoria
      public Categoria? Categoria {get; set;}
 
