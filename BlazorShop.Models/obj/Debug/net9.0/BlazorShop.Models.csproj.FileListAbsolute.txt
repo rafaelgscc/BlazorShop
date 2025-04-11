@@ -1,0 +1,12 @@
+C:\Users\rafae\OneDrive\Documentos\blazor_app\BlazorShop.Models\bin\Debug\net9.0\BlazorShop.Models.deps.json
+C:\Users\rafae\OneDrive\Documentos\blazor_app\BlazorShop.Models\bin\Debug\net9.0\BlazorShop.Models.dll
+C:\Users\rafae\OneDrive\Documentos\blazor_app\BlazorShop.Models\bin\Debug\net9.0\BlazorShop.Models.pdb
+C:\Users\rafae\OneDrive\Documentos\blazor_app\BlazorShop.Models\obj\Debug\net9.0\BlazorShop.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafae\OneDrive\Documentos\blazor_app\BlazorShop.Models\obj\Debug\net9.0\BlazorShop.Models.AssemblyInfoInputs.cache
+C:\Users\rafae\OneDrive\Documentos\blazor_app\BlazorShop.Models\obj\Debug\net9.0\BlazorShop.Models.AssemblyInfo.cs
+C:\Users\rafae\OneDrive\Documentos\blazor_app\BlazorShop.Models\obj\Debug\net9.0\BlazorShop.Models.csproj.CoreCompileInputs.cache
+C:\Users\rafae\OneDrive\Documentos\blazor_app\BlazorShop.Models\obj\Debug\net9.0\BlazorShop.Models.sourcelink.json
+C:\Users\rafae\OneDrive\Documentos\blazor_app\BlazorShop.Models\obj\Debug\net9.0\BlazorShop.Models.dll
+C:\Users\rafae\OneDrive\Documentos\blazor_app\BlazorShop.Models\obj\Debug\net9.0\refint\BlazorShop.Models.dll
+C:\Users\rafae\OneDrive\Documentos\blazor_app\BlazorShop.Models\obj\Debug\net9.0\BlazorShop.Models.pdb
+C:\Users\rafae\OneDrive\Documentos\blazor_app\BlazorShop.Models\obj\Debug\net9.0\ref\BlazorShop.Models.dll
