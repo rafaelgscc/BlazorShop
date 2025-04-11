@@ -432,6 +432,16 @@
           "build/Microsoft.NET.Sdk.WebAssembly.Pack.props": {},
           "build/Microsoft.NET.Sdk.WebAssembly.Pack.targets": {}
         }
+      },
+      "BlazorShop.Models/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "compile": {
+          "bin/placeholder/BlazorShop.Models.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BlazorShop.Models.dll": {}
+        }
       }
     },
     "net9.0/browser-wasm": {
@@ -864,6 +874,16 @@
         "build": {
           "build/Microsoft.NET.Sdk.WebAssembly.Pack.props": {},
           "build/Microsoft.NET.Sdk.WebAssembly.Pack.targets": {}
+        }
+      },
+      "BlazorShop.Models/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "compile": {
+          "bin/placeholder/BlazorShop.Models.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BlazorShop.Models.dll": {}
         }
       }
     }
@@ -1746,10 +1766,16 @@
         "tools/net9.0/Microsoft.NET.Sdk.WebAssembly.Pack.Tasks.dll",
         "tools/net9.0/Microsoft.NET.WebAssembly.Webcil.dll"
       ]
+    },
+    "BlazorShop.Models/1.0.0": {
+      "type": "project",
+      "path": "../BlazorShop.Models/BlazorShop.Models.csproj",
+      "msbuildProject": "../BlazorShop.Models/BlazorShop.Models.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net9.0": [
+      "BlazorShop.Models >= 1.0.0",
       "Microsoft.AspNetCore.Components.WebAssembly >= 9.0.0",
       "Microsoft.AspNetCore.Components.WebAssembly.DevServer >= 9.0.0",
       "Microsoft.NET.ILLink.Tasks >= 9.0.0",
@@ -1790,7 +1816,11 @@
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\rafae\\OneDrive\\Documentos\\blazor_app\\BlazorShop.Models\\BlazorShop.Models.csproj": {
+              "projectPath": "C:\\Users\\rafae\\OneDrive\\Documentos\\blazor_app\\BlazorShop.Models\\BlazorShop.Models.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

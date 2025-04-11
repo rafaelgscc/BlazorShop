@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BlazorShop.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+648051160e86b0a4b1e2adffcd7927e52673fcca")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dede4a064165377e2d8fbf45d1a94e5b6ca1d1d8")]
 [assembly: System.Reflection.AssemblyProductAttribute("BlazorShop.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BlazorShop.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
