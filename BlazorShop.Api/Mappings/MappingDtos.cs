@@ -4,7 +4,7 @@ using BlazorShop.Models.DTOs;
 
 namespace BlazorShop.Api.Mappings;
 
-public class MappingDtos
+public static class MappingDtos
 {
      public static IEnumerable<CatregoriaDto> ConverterCategoriasParaDto(
                                             this IEnumerable<Categoria> categorias)

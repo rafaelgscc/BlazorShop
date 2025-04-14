@@ -40,63 +40,43 @@ namespace BlazorShop.Api.Controllers
         }
 
         [HttpGet("{id:int}")]
-    public async Task<ActionResult<ProdutoDto>> GetItem(int id)
-    {
-        try
+        public async Task<ActionResult<ProdutoDto>> GetItem(int id)
         {
-            var produto = await _produtoRepository.GetItem(id);
-            if (produto is null)
+            try
             {
-                return NotFound("Produto não localizado");
+                var produto = await _produtoRepository.GetItem(id);
+                if (produto is null)
+                {
+                    return NotFound("Produto não localizado");
+                }
+                else
+                {
+                    var produtoDto = produto.ConverterProdutoParaDto();
+                    return Ok(produtoDto);
+                }
             }
-            else
+            catch (Exception)
             {
-                var produtoDto = produto.ConverterProdutoParaDto();
-                return Ok(produtoDto);
+                return StatusCode(StatusCodes.Status500InternalServerError,
+                                "Erro ao acessar o banco de dados");
             }
         }
-        catch (Exception)
-        {
-            return StatusCode(StatusCodes.Status500InternalServerError,
-                              "Erro ao acessar o banco de dados");
-        }
-    }
 
-    [HttpGet]
-    [Route("{categoriaId}/GetItensPorCategoria")]
-    public async Task<ActionResult<IEnumerable<ProdutoDto>>>
-        GetItensPorCategoria(int categoriaId)
-    {
-        try
+        [HttpGet]
+        [Route("GetItensPorCategoria/{categoriaId}")]
+        public async Task<ActionResult<IEnumerable<ProdutoDto>>> GetItensPorCategoria(int categoriaId)
         {
-            var produtos = await _produtoRepository.GetItensPorCategoria(categoriaId);
-            var produtosDto = produtos.ConverterProdutosParaDto();
-            return Ok(produtosDto);
+            try
+            {
+                var produtos = await _produtoRepository.GetItensPorCategoria(categoriaId);
+                var produtosDto = produtos.ConverterProdutosParaDto();
+                return Ok(produtosDto);
+            }
+            catch (Exception)
+            {
+                return StatusCode(StatusCodes.Status500InternalServerError,
+                                "Erro ao acessar o banco de dados");
+            }
         }
-        catch (Exception)
-        {
-            return StatusCode(StatusCodes.Status500InternalServerError,
-                            "Erro ao acessar o banco de dados");
-        }
-    }
-
-    [HttpGet]
-    [Route("GetCategorias")]
-    public async Task<ActionResult<IEnumerable<CatregoriaDto>>> GetCategorias()
-    {
-        try
-        {
-            var categorias = await _produtoRepository.GetCategorias();
-            var categoriasDto = categorias.ConverterCategoriasParaDto();
-            return Ok(categoriasDto);
-        }
-        catch (Exception)
-        {
-            return StatusCode(StatusCodes.Status500InternalServerError,
-                                       "Erro ao acessar o banco de dados");
-        }
-    }
-
-
     }
 }
