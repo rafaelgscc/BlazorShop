@@ -1,0 +1,46 @@
+{
+    "version": "0.2.0",
+    "compounds": [
+      {
+        "name": "Iniciar BlazorShop",
+        "configurations": ["BlazorShop.Api", "BlazorShop.Web"]
+      }
+    ],
+    "configurations": [
+      {
+        "name": "BlazorShop.Api",
+        "type": "coreclr",
+        "request": "launch",
+        "preLaunchTask": "build-api",
+        "program": "${workspaceFolder}/BlazorShop.Api/bin/Debug/net9.0/BlazorShop.Api.dll",
+        "args": [],
+        "cwd": "${workspaceFolder}/BlazorShop.Api",
+        "stopAtEntry": false,
+        "launchBrowser": {
+          "enabled": true,
+          "args": "http://localhost:7096"
+        },
+        "env": {
+          "ASPNETCORE_ENVIRONMENT": "Development"
+        }
+      },
+      {
+        "name": "BlazorShop.Web",
+        "type": "coreclr",
+        "request": "launch",
+        "preLaunchTask": "build-web",
+        "program": "${workspaceFolder}/BlazorShop.Web/bin/Debug/net9.0/BlazorShop.Web.dll",
+        "args": [],
+        "cwd": "${workspaceFolder}/BlazorShop.Web",
+        "stopAtEntry": false,
+        "launchBrowser": {
+          "enabled": true,
+          "args": "http://localhost:5088"
+        },
+        "env": {
+          "ASPNETCORE_ENVIRONMENT": "Development"
+        }
+      }
+    ]
+  }
+  

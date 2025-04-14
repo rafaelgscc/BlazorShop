@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "BlazorShop.Web",
   "resources": {
-    "hash": "sha256-gl2LDZKerlvlSZ7QnCN5HOhbu9Y41nZfp+WAqeFFfjs=",
+    "hash": "sha256-Iv1lnXa7760a3KF9X62OhLgKMnbKcJF6874Ck+QrQQo=",
     "fingerprinting": {
       "Microsoft.AspNetCore.Authorization.qe23mgxr71.wasm": "Microsoft.AspNetCore.Authorization.wasm",
       "Microsoft.AspNetCore.Components.flveird317.wasm": "Microsoft.AspNetCore.Components.wasm",
@@ -201,10 +201,10 @@
       "icudt_CJK.tjcz0u77k5.dat": "icudt_CJK.dat",
       "icudt_EFIGS.tptq2av103.dat": "icudt_EFIGS.dat",
       "icudt_no_CJK.lfu7j35m59.dat": "icudt_no_CJK.dat",
-      "BlazorShop.Models.db4q56cs0m.wasm": "BlazorShop.Models.wasm",
-      "BlazorShop.Models.xke3uv88xo.pdb": "BlazorShop.Models.pdb",
-      "BlazorShop.Web.iwdcosdxps.wasm": "BlazorShop.Web.wasm",
-      "BlazorShop.Web.fqs95xswl7.pdb": "BlazorShop.Web.pdb"
+      "BlazorShop.Models.msps1n4u9l.wasm": "BlazorShop.Models.wasm",
+      "BlazorShop.Models.t8s8kprken.pdb": "BlazorShop.Models.pdb",
+      "BlazorShop.Web.qkb4tlojrd.wasm": "BlazorShop.Web.wasm",
+      "BlazorShop.Web.z4o9wuquie.pdb": "BlazorShop.Web.pdb"
     },
     "jsModuleNative": {
       "dotnet.native.hvg7u8bimp.js": "sha256-LX9rFEWGVxhkOkAVPG0w5RxPwzPBlEUz6dQNjWS7M+M="
@@ -414,12 +414,12 @@
       "WindowsBase.377bly7twj.wasm": "sha256-0VmBdMjdc0nZGHDSfaGirT6y3mJTM0qx8eqCUC/rpiE=",
       "mscorlib.o0184ey5ia.wasm": "sha256-2GxNKZQJVJvYMUxSTuXa5V2qxawSMMHZtwG33SKVCZU=",
       "netstandard.hb3h2rr8mk.wasm": "sha256-DWn9+RH/ElZQ6imlYqVwZvir1KTzNwY18AzGmnyiymU=",
-      "BlazorShop.Models.db4q56cs0m.wasm": "sha256-p6pxJNW36j+Ew1idX0Ji7rh/srCZWn2Z/XzZuTUMfdU=",
-      "BlazorShop.Web.iwdcosdxps.wasm": "sha256-YuksabcpwFJXomameLiEOtRWS9VirwfGWFhxI6CG3i4="
+      "BlazorShop.Models.msps1n4u9l.wasm": "sha256-lo5XEtKC93RTq21y+oqg4936Wmhd7k2YRYiqdH4VcAs=",
+      "BlazorShop.Web.qkb4tlojrd.wasm": "sha256-ZvueaixxDl3/YNKRhM2+JkwJih0X+dc0RYpRskz92MM="
     },
     "pdb": {
-      "BlazorShop.Models.xke3uv88xo.pdb": "sha256-b1mHK6qhsNj6KGve2NE0sDykKu5HxgZUifwutUDWRYc=",
-      "BlazorShop.Web.fqs95xswl7.pdb": "sha256-Sf2a1ipRBXXlSB+/oT/7ifbTRSujs5bDInYSbmSj7LE="
+      "BlazorShop.Models.t8s8kprken.pdb": "sha256-/YhePCydEEEv41BYgIJWnvBxjQ2J3wafYFtjI81IXKQ=",
+      "BlazorShop.Web.z4o9wuquie.pdb": "sha256-c1rHIV5lrANN3YURGRM0H7fHNgdFVLgrmfX3BSnQtgY="
     }
   },
   "cacheBootResources": true,

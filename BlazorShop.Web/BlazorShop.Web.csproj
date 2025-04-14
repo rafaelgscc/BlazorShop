@@ -15,8 +15,4 @@
     <ProjectReference Include="..\BlazorShop.Models\BlazorShop.Models.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Services\" />
-  </ItemGroup>
-
 </Project>
