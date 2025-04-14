@@ -13,41 +13,33 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = browser
 build_property.RootNamespace = BlazorShop.Web
 build_property.RootNamespace = BlazorShop.Web
-build_property.ProjectDir = C:\Users\rafae\OneDrive\Documentos\blazor_app\BlazorShop.Web\
+build_property.ProjectDir = c:\Users\rafae\OneDrive\Documentos\blazor_app\BlazorShop.Web\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = false
 build_property.RazorLangVersion = 9.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\rafae\OneDrive\Documentos\blazor_app\BlazorShop.Web
+build_property.MSBuildProjectDirectory = c:\Users\rafae\OneDrive\Documentos\blazor_app\BlazorShop.Web
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 9.0
 build_property.EnableCodeStyleSeverity = 
 
-[C:/Users/rafae/OneDrive/Documentos/blazor_app/BlazorShop.Web/App.razor]
+[c:/Users/rafae/OneDrive/Documentos/blazor_app/BlazorShop.Web/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/rafae/OneDrive/Documentos/blazor_app/BlazorShop.Web/Pages/Counter.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/rafae/OneDrive/Documentos/blazor_app/BlazorShop.Web/Pages/Home.razor]
+[c:/Users/rafae/OneDrive/Documentos/blazor_app/BlazorShop.Web/Pages/Home.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSG9tZS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/rafae/OneDrive/Documentos/blazor_app/BlazorShop.Web/Pages/Weather.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcV2VhdGhlci5yYXpvcg==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/rafae/OneDrive/Documentos/blazor_app/BlazorShop.Web/_Imports.razor]
+[c:/Users/rafae/OneDrive/Documentos/blazor_app/BlazorShop.Web/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/rafae/OneDrive/Documentos/blazor_app/BlazorShop.Web/Layout/MainLayout.razor]
+[c:/Users/rafae/OneDrive/Documentos/blazor_app/BlazorShop.Web/Layout/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XE1haW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-3o9z2mc8ub
 
-[C:/Users/rafae/OneDrive/Documentos/blazor_app/BlazorShop.Web/Layout/NavMenu.razor]
+[c:/Users/rafae/OneDrive/Documentos/blazor_app/BlazorShop.Web/Layout/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XE5hdk1lbnUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-qgv05t6ze5
